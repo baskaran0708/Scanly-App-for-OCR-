@@ -1,0 +1,36 @@
+## Android / Gradle
+.gradle/
+build/
+**/build/
+local.properties
+*.apk
+*.aab
+*.ap_
+*.dex
+
+## IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+captures/
+.externalNativeBuild/
+.cxx/
+
+## Signing
+*.jks
+*.keystore
+keystore.properties
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Claude Code session data
+.claude/
+
+## Generated
+app/src/main/java/com/app/ocrscanner/di/AppModule_*.java
+app/src/main/java/com/app/ocrscanner/**/*_HiltModules*.java
+app/src/main/java/com/app/ocrscanner/**/*_Factory*.java
+app/src/main/java/com/app/ocrscanner/**/*_MembersInjector*.java
