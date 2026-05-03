@@ -21,7 +21,12 @@ LMI Scanly lets you capture, crop, extract text from, and archive physical docum
 
 ## Screenshots
 
-> *(Add screenshots here before pushing to GitHub)*
+<p align="center">
+  <img src="scanly_preview.png" width="220" alt="Home Screen"/>
+  <img src="scanly2.png" width="220" alt="Crop Screen"/>
+  <img src="scanly3.png" width="220" alt="OCR Result"/>
+  <img src="scanly_final.png" width="220" alt="Document Detail"/>
+</p>
 
 ---
 
