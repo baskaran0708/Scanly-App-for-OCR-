@@ -1,6 +1,6 @@
 # LMI Scanly
 
-> **AI-powered OCR document scanner for Android** — built for Live Medica
+> **AI-powered OCR document scanner for Android** — built by Baskaran @ Live Medica
 
 LMI Scanly lets you capture, crop, extract text from, and archive physical documents directly on your Android device. OCR runs fully **on-device** (no internet required) using ML Kit Text Recognition v2.
 
@@ -134,4 +134,13 @@ Proprietary — Live Medica Internal Use Only
 
 ---
 
-*Built with ❤ by the Live Medica engineering team*
+## Author
+
+**Baskaran Arumugam**
+Android Developer @ Live Medica
+[baskaran.arumugam@livemedica.com](mailto:baskaran.arumugam@livemedica.com)
+[github.com/baskaran0708](https://github.com/baskaran0708)
+
+---
+
+*Built with ❤ by Baskaran @ Live Medica*
